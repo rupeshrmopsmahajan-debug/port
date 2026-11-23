@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+,     "app/layout.jsx", "app/page.jsx", "app/writing/page.jsx", "components/SiteNavigation.jsx", "components/HeroSection.jsx", "components/SiteFooter.jsx", "providers/ThemeProvider.jsx", "components/ThemeToggle.jsx", "components/DottedUnderline.jsx"  ],
   "exclude": ["node_modules"]
 }
